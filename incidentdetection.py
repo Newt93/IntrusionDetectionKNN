@@ -6,10 +6,7 @@ from sklearn.metrics import accuracy_score
 incidents = [
     [1, 'Malware'],
     [2, 'Phishing'],
-    [3, 'Malware'],
-    [4, 'Unauthorized Access'],
-    [5, 'Phishing'],
-    [6, 'Unauthorized Access'],
+    [3, 'Unauthorized Access']
 ]
 
 # Split the dataset into features (X) and labels (y)
